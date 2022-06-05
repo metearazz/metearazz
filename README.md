@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @metearazz
+- 👋 Hi, I’m Mete.
 - 🌱 I’m currently learning Front END Web development and Game development.
 - 📫 How to reach me; @metearazz on instagram and Kyroic#8672 on Discord.
 
