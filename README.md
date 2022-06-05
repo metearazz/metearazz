@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @metearazz
-- 👀 I’m interested in Web development and android app development.
-- 🌱 I’m currently learning Web development and android app development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Front END Web development and Game development.
 - 📫 How to reach me; @metearazz on instagram and Kyroic#8672 on Discord.
 
 <!---
