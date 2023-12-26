@@ -1,2 +1,2 @@
 Hi, this is Mete.
-I currently learn Front END Web development.
+learns 3D game art creating and unreal engine 5
